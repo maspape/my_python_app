@@ -1,0 +1,13 @@
+{
+    "dest": "C:/username/desktop/",
+    "username": "hoge",
+    "password": "hogehoge",
+    "address": {
+        "key1": "172.17.117.1",
+        "key2": "172.17.117.2"
+    },
+    "cmd": [
+        "show version",
+        "show interfaces"
+    ]
+}
